@@ -1,3 +1,4 @@
+// This code is devloped by Pritisha
 #include <iostream>
 using namespace std;
 
@@ -17,4 +18,5 @@ int main() {
     cout << "The area of the triangle is: " << area << endl;
 
     return 0;
+
 }
